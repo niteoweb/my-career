@@ -1,2 +1,2 @@
 # My Niteo Career
-Template for Niteo's career path management and one on one notes.
+My [One on One notes](https://github.com/niteoweb/my-niteo-career/issues/1) and [Career Path](https://github.com/niteoweb/my-niteo-career/issues/1).
