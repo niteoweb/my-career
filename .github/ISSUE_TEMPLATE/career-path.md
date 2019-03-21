@@ -14,12 +14,6 @@ Required skills or accomplishments:
 * [ ] accomplishment 2
   * [story](#) that shows how I qualified for this
 
-## Current State
-
-I already qualify for the skill 1 but will focus with my senior to qualify for all other skills and accomplishments.
-
-I will create a comment for each of the requirements with specific agreed steps to take to achieve it. Any User Story that shows a step towards qualification will be referred to here.
-
 ## Bonus Karma Points
 
 * [x] Great rapport with customers (links to intercom conversations)
@@ -29,6 +23,7 @@ I will create a comment for each of the requirements with specific agreed steps 
 
 ## Comment Template
 
+I will create a comment for each of the requirements with specific agreed steps to take to achieve it. Any User Story that shows a step towards qualification will be referred to here.
 
 ```
 # Skill 1 - story about something
