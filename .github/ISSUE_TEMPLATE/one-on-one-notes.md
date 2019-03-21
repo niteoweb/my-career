@@ -12,9 +12,10 @@ A few questions to cover on One on Ones:
 
 Refer to [the Handbook for additional questions](https://github.com/niteoweb/handbook/blob/master/5_People/one-on-one-meetings.md).
 
---
+## Comment Template
 
-# Comment: Month 32nd
+```
+# Month 32nd
 
 Senior: SrNitean
 
@@ -33,3 +34,4 @@ Nitean will:
 Senior will:
 
 * write a Story to improve GitHub templates
+```
