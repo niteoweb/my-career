@@ -27,10 +27,11 @@ I will create a comment for each of the requirements with specific agreed steps 
 * [ ] Role item from higher role
 * [ ] Notable contributions to the field & community. (For example, helped organize a local conference, posted a widely shared blog post, etc.)
 
-```
+## Comment Template
 
-# Comment - skill 1 - story about something
+
+```
+# Skill 1 - story about something
 
 In the Story about something I did something great that my peers acknowledged on Slack and this confirms I have the skill 1.
-
 ```
