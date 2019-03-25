@@ -1,4 +1,11 @@
-# My Career Path to [next role]
+---
+name: Career Path
+about: Career Path template for a Nitean.
+title: My Career Path to [next role]
+labels: ''
+assignees: ''
+
+---
 
 I am currently [current role] and would like to progress to [next role].
 

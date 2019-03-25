@@ -1,4 +1,11 @@
-# One on One Notes
+---
+name: One on One Notes
+about: One on One notes template.
+title: One on One Notes
+labels: ''
+assignees: ''
+
+---
 
 A few questions to cover on One on Ones:
 
