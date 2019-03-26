@@ -1,13 +1,13 @@
 ---
-name: One on One Notes
-about: One on One notes template.
-title: One on One Notes
+name: Catchups
+about: Template for the Catchups issue.
+title: Catchups
 labels: ''
 assignees: ''
 
 ---
 
-A few questions to cover on One on Ones:
+A few questions to cover on a Catchup:
 
 - What's on your mind?
 - How has the previous week of work been for you? Are there any blockers we can discuss or remove?
@@ -17,26 +17,26 @@ A few questions to cover on One on Ones:
 - Are there any meetings or discussions you feel you should be a part of that you're not? Are you included in any you don't want to be a part of?
 - Do you have any half-baked ideas for projects, the company or anything else?
 
-Refer to [the Handbook for additional questions](https://github.com/niteoweb/handbook/blob/master/5_People/one-on-one-meetings.md).
+Refer to [the Handbook for additional questions](https://github.com/niteoweb/handbook/blob/master/5_People/catchups.md).
 
 ## Comment Template
 
 ```
 # Month 32nd
 
-Senior: SrNitean
+Senior: @SrNitean
 
 ## Discussion
 
 * team dynamics
-* improving managing projects  
+* improving managing projects
 * chat
 
 ## Action Items
 
 Nitean will:
 
-* write his Nitean profile 
+* write his Nitean profile
 
 Senior will:
 
