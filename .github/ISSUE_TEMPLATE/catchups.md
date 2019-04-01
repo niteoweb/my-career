@@ -36,7 +36,7 @@ Senior: @SrNitean
 
 Nitean will:
 
-* write his Nitean profile
+* write their Nitean profile
 
 Senior will:
 
