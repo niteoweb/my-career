@@ -1,6 +1,6 @@
 ---
 name: Career Path
-about: Career Path template for a Nitean.
+about: Template for the Career Path issue.
 title: My Career Path to [next role]
 labels: ''
 assignees: ''
