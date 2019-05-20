@@ -1,7 +1,7 @@
 ---
 name: Career Path
 about: Template for the Career Path issue.
-title: My Career Path to [next role]
+title: Career Path to [next role]
 labels: ''
 assignees: ''
 
