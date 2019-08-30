@@ -12,8 +12,7 @@ The repo is used to store career-related notes:
 
 ### Create the repo
 
-1. Go to https://import.github.com/.
-1. For `Your old repository’s clone URL` enter `https://github.com/niteoweb/niteo-career.git`.
+1. Click on **Use this template** in top action bar.
 1. For `Name` enter `niteo-career`.
 1. For `Privacy` select `Private`.
 1. Click `Begin import` and wait a few minutes.
