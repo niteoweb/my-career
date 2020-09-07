@@ -7,12 +7,12 @@ The Nitean gets `Admin` permissions over the repo and Partners get `read/write` 
 The reason we do it like this is that the repository might contain personal information and we want every Nitean to be the master of their personal information. If they leave Niteo, they have the power to remove the repo and nobody can read it any more. It also gives Niteans clarity into who exactly can read the Catchups notes: only the people listed as collaborators to the repo.
 
 The repo is used to store career-related notes:
-* [Catchups](https://github.com/niteoweb/niteo-career/issues/1): Every time you have a Catchup, you or your senior write a report in this issue.
-* [Career Path](https://github.com/niteoweb/niteo-career/issues/2): Every time your have a Catchup, you talk about the weeks since the last Catchup and highlight accomplishments in this issue and recognize the steps required to progress to the next level.
+* [Career Path](https://github.com/niteoweb/niteo-career/issues/1): Every time you have a Catchup, you or your senior write a report in this issue.
+* [Catchups](https://github.com/niteoweb/niteo-career/issues/2): Every time your have a Catchup, you talk about the weeks since the last Catchup and highlight accomplishments in this issue and recognize the steps required to progress to the next level.
 
 ## How to create the Niteo Career repo for yourself
 
-### Create the repo
+### Create the repo [Partners only]
 
 1. Click on **Use this template** in top action bar.
 1. For `Name` enter `niteo-career-<handle>`.
