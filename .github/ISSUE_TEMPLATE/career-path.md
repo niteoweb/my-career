@@ -9,9 +9,9 @@ assignees: ''
 
 I am currently [current role] and would like to progress to [next role].
 
-## The Road to [next role]
+# The Road to [next role]
 
-Required skills or accomplishments:
+## Skills and Accomplishments
 
 * [x] skill 1
   * [story](#) that shows how I qualified for this
@@ -20,6 +20,13 @@ Required skills or accomplishments:
 * [ ] skill 3
 * [ ] accomplishment 2
   * [story](#) that shows how I qualified for this
+
+## Education
+
+* [ ] An industry book: ...
+* [ ] A company culture book: ...
+* [ ] A personal growth book: ...
+* [ ] A course: ...
 
 ## Bonus Karma Points
 
